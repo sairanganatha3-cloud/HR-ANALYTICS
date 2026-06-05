@@ -11,7 +11,13 @@ This project is an HR Analytics Dashboard developed using Power BI to analyze em
 
 ## Dashboard Preview
 
-![HR Dashboard](Screenshot%202026-06-01%20094948.png)
+### Power BI Dashboard
+
+![Power BI Dashboard](Screenshot%202026-06-01%20094948.png)
+
+### Tableau Dashboard
+
+![Tableau Dashboard](Screenshot%20(459).png)
 
 ## Key Insights
 - Employee Attrition Analysis
