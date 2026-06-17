@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project is an HR Analytics Dashboard developed using Power BI to analyze employee attrition, workforce demographics, job satisfaction, and department performance.
+Dataset: Sample HR Analytics Dataset (Portfolio Project)
 
 ## Tools Used
 - Power BI
